@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D.Candidate, Korea Advanced Institute of Science and Technology(KAIST)"
   location         : "Daejeon, South Korea"
-  employer         : "KAIST (Korea Advanced Institute \n of Science and Technology)"
+  employer         : # "KAIST (Korea Advanced Institute \n of Science and Technology)"
   uri              : # URL
   email            : "seoyoung.oh@kaist.ac.kr" 
 
