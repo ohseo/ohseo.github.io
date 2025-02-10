@@ -3,7 +3,7 @@ title: "Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Fe
 collection: publications
 category: poster
 permalink: /publication/2022-Marciniak
-date: 2022
+date: 2022-01-01
 venue: 'Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology'
 paperurl: 'http://ohseo.github.io/files/2022-Marciniak.pdf'
 citation: 'Marciniak, Zofia and Oh, Seo Young and Yoon, Sang Ho. (2022). &quot;Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Feedback.&quot; <i>Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology</i>.'
