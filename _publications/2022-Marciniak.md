@@ -1,7 +1,7 @@
 ---
                         title: "Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Feedback"
                         collection: publications
-                        category: paper
+                        category: poster
                         permalink: /publication/2022-Marciniak
                         date: 2022
                         venue: 'Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology'
