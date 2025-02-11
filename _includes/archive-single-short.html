@@ -47,13 +47,13 @@
         {% endif %}
     
     {% if post.authors and post.paperurl and post.doi %}
-      <p>{{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.doi }}">DOI</a></p>
+      <p>Authors: {{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.doi }}">DOI</a></p>
     {% elsif post.authors and post.paperurl %}
-      <p>{{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p>Authors: {{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.authors and post.doi %}
-      <p>{{ post.authors }}<br /><a href="{{ post.doi }}">{{ post.doi }}</a></p>
+      <p>Authors: {{ post.authors }}<br /><a href="{{ post.doi }}">{{ post.doi }}</a></p>
     {% elsif post.authors %}
-      <p>{{ post.authors }}</p>
+      <p>Authors: {{ post.authors }}</p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
     {% elsif post.doi %}
