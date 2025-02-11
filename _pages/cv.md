@@ -63,12 +63,14 @@ Honors and Awards
 
 Academic Services and Experiences
 ------
-* **Teaching Assistant**
-  * Undergraduate Research Participation Program: 2015, 2022, 2025
-  * CTP445 Augmented Reality: 2020, 2022
-  * GCT565 Augmented Humans: 2021
-  * GCT700 Topics in Culture Techology Project Planning -- AR Project: 2021
-  * ID216 Product Design Engineering: 2013, 2014
+* **Teaching Assistant** at KAIST
+  * Undergraduate Research Participation Program (2015, 2022, 2025)
+  * CTP445 Augmented Reality (2020, 2022)
+  * GCT565 Augmented Humans (2021)
+  * GCT700 Topics in Culture Techology Project Planning -- AR Project (2021)
+  * ID216 Product Design Engineering (2013, 2014)
+* **Graduate Mentor** at Korea Science Academy of KAIST
+  * High School Research Participation Program (2015)
 * **Volunteering**
   * **Reviewer**: CHI, CHI Late-Breaking Work, KSC (Korea Software Congress)
   * **Academic Event Assistant**: KAIST GSCT Post-Metaverse Forum
