@@ -45,6 +45,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {{ content }}
+
         {% if page.authors and page.paperurl and page.doi %}
           <p style="font-size: smaller">Authors: {{ page.authors }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.doi }}">DOI</a></p>
         {% elsif page.authors and page.paperurl %}
@@ -56,8 +58,6 @@ layout: default
         {% elsif page.doi %}
           <p style="font-size: smaller"><a href="{{ page.doi }}">DOI</a></p>
         {% endif %}
-        
-        {{ content }}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
