@@ -35,25 +35,25 @@ Skills
 Publications
 ------
   <ul>
- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single-cv.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-{% endif %}
+    {% if site.publication_category %}
+      {% for category in site.publication_category  %}
+        {% assign title_shown = false %}
+        {% for post in site.publications reversed %}
+          {% if post.category != category[0] %}
+            {% continue %}
+          {% endif %}
+          {% unless title_shown %}
+            <h3>{{ category[1].title }}</h3><hr />
+            {% assign title_shown = true %}
+          {% endunless %}
+          {% include archive-single-cv.html %}
+        {% endfor %}
+      {% endfor %}
+    {% else %}
+      {% for post in site.publications reversed %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
+    {% endif %}
   </ul>
   
 Honors and Awards
@@ -71,7 +71,7 @@ Academic Services and Experiences
   * Undergraduate Research Participation Program: 2015, 2022, 2025
   * CTP445 Augmented Reality: 2020, 2022
   * GCT565 Augmented Humans: 2021
-  * GCT700 Topics in Culture Techology Project Planning: AR Project: 2021
+  * GCT700 Topics in Culture Techology Project Planning -- AR Project: 2021
   * ID216 Product Design Engineering: 2013, 2014
 * **Academic Event Assistant**
   * KAIST GSCT Post-Metaverse Forum: 2021
