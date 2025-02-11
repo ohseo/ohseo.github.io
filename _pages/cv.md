@@ -56,6 +56,27 @@ Publications
 {% endif %}
   </ul>
   
+Honors and Awards
+------
+* **Best Implementation Award - Student Design Competition**, Oct 2022 <br />
+  * <i>The International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)</i>
+
+Academic Services and Experiences
+------
+* **Reviewer**
+  * Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), 2024
+  * Korea Software Congress (KSC), 2024
+  * Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI Late-Breaking Work), 2022
+* **Teaching Assistant**
+  * Undergraduate Research Participation Program: 2015, 2022, 2025
+  * CTP445 Augmented Reality: 2020, 2022
+  * GCT565 Augmented Humans: 2021
+  * GCT700 Topics in Culture Techology Project Planning: AR Project: 2021
+  * ID216 Product Design Engineering: 2013, 2014
+* **Academic Event Assistant**
+  * KAIST GSCT Post-Metaverse Forum: 2021
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
