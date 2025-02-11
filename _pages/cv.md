@@ -43,7 +43,7 @@ Publications
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h3>{{ category[1].title }}</h3><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single-cv.html %}
