@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
             {% if post.authors %}
                 <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-                {{ post.authors }}</p>
+                <br />{{ post.authors }}</p>
             {% else %}
                 <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>   
             {% endif %}
