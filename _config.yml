@@ -28,7 +28,8 @@ author:
   bio              : "Ph.D.Candidate, Korea Advanced Institute of Science and Technology(KAIST)"
   location         : "Daejeon, South Korea"
   employer         : "UVR Lab."
-  uri              : "http://uvrlab.org"
+  employeruri      : "http://uvrlab.org"
+  uri              : # URL
   email            : "seoyoung.oh@kaist.ac.kr" 
 
   # Academic websites
