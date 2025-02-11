@@ -22,8 +22,7 @@ Education
 
 Work experience
 ------
-* Naru EMS Inc. as a Research Engineer
-  * Apr 2016 - Feb 2019
+* Naru EMS Inc. as a Research Engineer, Apr 2016 - Feb 2019
   * Language porting, UI implementation, AR-based demo implementation
   
 Skills
