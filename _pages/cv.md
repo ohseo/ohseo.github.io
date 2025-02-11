@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download PDF](/files/paper2.pdf)
+
 {% include base_path %}
 
 Research Interests
