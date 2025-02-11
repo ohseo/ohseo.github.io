@@ -9,37 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+------
+Interaction Techniques, 3D User Interfaces, Augmented Reality, Ubiquitous Virtual Reality, Human-Computer Interaction
+
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* Ph.D. Candidate in Culture Technology, KAIST, 2026 (expected)
+* M.S. in Culture Technology, KAIST, 2020
+* B.S. in Mechanical Engineering, KAIST, 2014
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* Naru EMS Inc. as a Research Engineer
+  * Apr 2016 - Feb 2019
+  * Language porting, UI implementation, AR-based demo implementation
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* Programming: C#, Python, C++, C, Java
+* Development Tools: Unity, ARCore, ARKit, OpenXR, Mixed Reality Toolkit
+* Design & Graphhics: Illustrator, Photoshop, Premiere Pro
+* Languages: Korean (Native), English (Proficient)
 
 Publications
 ======
