@@ -16,9 +16,9 @@ Interaction Techniques, 3D User Interfaces, Augmented Reality, Ubiquitous Virtua
 
 Education
 ------
-* Ph.D. Candidate in Culture Technology, KAIST, 2026 (expected)
-* M.S. in Culture Technology, KAIST, 2020
-* B.S. in Mechanical Engineering, KAIST, 2014
+* Ph.D. Candidate in <i>Culture Technology</i>, KAIST, 2026 (expected)
+* M.S. in <i>Culture Technology</i>, KAIST, 2020
+* B.S. in <i>Mechanical Engineering</i>, KAIST, 2014
 
 Work experience
 ------
@@ -63,32 +63,12 @@ Honors and Awards
 
 Academic Services and Experiences
 ------
-* **Reviewer**
-  * Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), 2024
-  * Korea Software Congress (KSC), 2024
-  * Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI Late-Breaking Work), 2022
 * **Teaching Assistant**
   * Undergraduate Research Participation Program: 2015, 2022, 2025
   * CTP445 Augmented Reality: 2020, 2022
   * GCT565 Augmented Humans: 2021
   * GCT700 Topics in Culture Techology Project Planning -- AR Project: 2021
   * ID216 Product Design Engineering: 2013, 2014
-* **Academic Event Assistant**
-  * KAIST GSCT Post-Metaverse Forum: 2021
-
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+* **Volunteering**
+  * **Reviewer**: CHI, CHI Late-Breaking Work, KSC (Korea Software Congress)
+  * **Academic Event Assistant**: KAIST GSCT Post-Metaverse Forum
