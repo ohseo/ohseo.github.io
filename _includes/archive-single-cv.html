@@ -37,7 +37,9 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue and post.doi %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }} <a href="{{ post.doi }}">{{ post.doi }}</a></p> {% endif %}
+    {% if post.venue and post.doi %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }} <a href="{{ post.doi }}">{{ post.doi }}</a></p>
+    {% else %} <i>Under Review.</i>
+    {% end if %}
     </li>
  </article>
 </div>
