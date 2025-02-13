@@ -76,3 +76,5 @@ Academic Services and Experiences
 * **Volunteering**
   * **Reviewer**: CHI, CHI Late-Breaking Work, KSC (Korea Software Congress)
   * **Academic Event Assistant**: KAIST GSCT Post-Metaverse Forum
+
+<div style="text-align: right"><i>Last Updated: Feb 2025</i></div>
