@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](/files/paper2.pdf)
+[Download PDF](/files/CV_SYOh_2025Feb.pdf)
 
 {% include base_path %}
 
