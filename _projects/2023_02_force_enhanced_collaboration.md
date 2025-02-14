@@ -1,6 +1,6 @@
 ---
 title: "Force-enhanced MR Remote Collaboration (2023)"
-excerpt: "<img src='/images/500x300.png' width='400'>"
+excerpt: "<img src='/images/500x300.png' width='500'>"
 collection: projects
 ---
 

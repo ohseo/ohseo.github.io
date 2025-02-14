@@ -1,6 +1,6 @@
 ---
 title: "Color sommelier (2015)"
-excerpt: "<img src='/images/projects/colorsommelier_teaser.png' width='400'>"
+excerpt: "<img src='/images/projects/colorsommelier_teaser.png' width='500'>"
 collection: projects
 ---
 

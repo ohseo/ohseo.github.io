@@ -1,6 +1,6 @@
 ---
 title: "ForceCtrl (2025)"
-excerpt: "<img src='/images/500x300.png' width='400'>"
+excerpt: "<img src='/images/500x300.png' width='500'>"
 collection: projects
 ---
 

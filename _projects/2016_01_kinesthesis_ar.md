@@ -1,6 +1,6 @@
 ---
 title: "Kinesthesis AR (2016)"
-excerpt: "<img src='/images/projects/kinesthesisar_teaser.png' width='400'>"
+excerpt: "<img src='/images/projects/kinesthesisar_teaser.png' width='500'>"
 collection: projects
 ---
 
