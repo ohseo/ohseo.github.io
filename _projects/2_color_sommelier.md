@@ -20,7 +20,7 @@ An interactive color recommendation system based on community-generated color pa
     KyoungHee Son, <b>Seo Young Oh</b>, Yongkwan Kim, Hayan Choi, Seok-Hyung Bae, and Ganguk Hwang. (2015).
     &quot;Color sommelier: Interactive color recommendation system based on community-generated color palettes.&quot;
     <i>Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology</i> 
-    <a href="/_publications/2015-11-06-UIST-Son.md">Link</a>
+    <a href="/publication/2015-11-06-UIST-Son">Link</a>
   </li>  
 </ul>
 </p>
