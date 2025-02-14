@@ -1,10 +1,10 @@
 ---
 title: "OmniSense (2023)"
-excerpt: "<img src='/images/500x300.png' width='500'>"
+excerpt: "<img src='/images/projects/omnisense_teaser.png' width='500'>"
 collection: projects
 ---
 
-<img src='/images/500x300.png' width='600'>
+<iframe width="600" src="https://www.youtube.com/embed/nu7vxkiYT2k" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
 .

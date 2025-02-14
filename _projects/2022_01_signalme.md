@@ -1,10 +1,10 @@
 ---
 title: "SignalMe (2022)"
-excerpt: "<img src='/images/500x300.png' width='500'>"
+excerpt: "<img src='/images/projects/signalme_teaser.jpg' width='500'>"
 collection: projects
 ---
 
-<img src='/images/500x300.png' width='600'>
+<img src='/images/projects/signalme_poster.jpg' width='600'>
 
 <p>
 .

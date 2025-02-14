@@ -1,10 +1,10 @@
 ---
 title: "ForceCtrl (2025)"
-excerpt: "<img src='/images/500x300.png' width='500'>"
+excerpt: "<img src='/images/projects/forcectrl_teaser.png' width='500'>"
 collection: projects
 ---
 
-<img src='/images/500x300.png' width='600'>
+<img src='/images/projects/forcectrl_main.png' width='600'>
 
 <p>
 .
