@@ -7,7 +7,9 @@ collection: projects
 <img src="/images/projects/colorsommelier_main.png">
 
 <p>
-An interactive color recommendation system based on community-generated color palettes.<br />
+An interactive color recommendation system based on community-generated color palettes.
+</p>
+<p>
 <i>Contributions: UI & demo implementation, user study design & execution</i>
 </p>
 
