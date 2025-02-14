@@ -24,6 +24,4 @@ An interactive color recommendation system based on community-generated color pa
             <a href="/publication/2015-11-06-UIST-Son">Link</a>
         </li>
     </ul>
-Presented at UIST 2016 Student Innovation Contest.<br />
-<img src='/images/projects/UIST2016_SIC.jpg' width='600'>
 </p>
