@@ -4,7 +4,8 @@ excerpt: "<img src='/images/projects/teleforce_teaser.png' width='500'>"
 collection: projects
 ---
 
-<img src='/images/projects/teleforce_main.png' width='600'>
+<img src='/images/projects/teleforce_main_1.png' width='600'><br />
+<img src='/images/projects/teleforce_main_2.png' width='600'>
 
 <p>
 .

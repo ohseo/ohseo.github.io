@@ -4,7 +4,7 @@ excerpt: "<img src='/images/projects/omnisense_teaser.png' width='500'>"
 collection: projects
 ---
 
-<iframe width="600" src="https://www.youtube.com/embed/nu7vxkiYT2k" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/nu7vxkiYT2k" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
 .

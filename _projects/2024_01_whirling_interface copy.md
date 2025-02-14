@@ -1,6 +1,6 @@
 ---
 title: "Whirling Interface (2024)"
-excerpt: "<img src='/images/projects/whirling_teaser.png' width='500'>"
+excerpt: "<img src='/images/projects/whirling_teaser.jpg' width='500'>"
 collection: projects
 ---
 
