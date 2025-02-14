@@ -12,5 +12,5 @@ Guiding the user's forearm with EMS signal to inform the user about the virtual 
 
 <p>
 Presented at UIST 2016 Student Innovation Contest.<br />
-<img src='/images/projects/UIST2016_SIC.jpg'>
+<img src='/images/projects/UIST2016_SIC.jpg' width='600'>
 </p>
