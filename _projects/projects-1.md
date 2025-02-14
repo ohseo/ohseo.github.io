@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Kinesthesis AR"
+excerpt: "<img src='/images/projects/kinesthesisAR_teaser.png'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/projects/kinesthesisAR_poster.png'>
+Guiding the user's forearm with EMS signal to inform the user about the virtual object in the periphery, without overloading the view with visual or auditory feedback.
