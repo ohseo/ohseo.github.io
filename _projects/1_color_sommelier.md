@@ -1,0 +1,29 @@
+---
+title: "Color sommelier (2015)"
+excerpt: "<img src='/images/projects/colorsommelier_teaser.png' width='400'>"
+collection: projects
+---
+
+<img src='/images/projects/colorsommelier_main.png' width='600'>
+
+<p>
+An interactive color recommendation system based on community-generated color palettes.
+</p>
+
+<p>
+<i>Contributions: UI & demo implementation, user study design & execution</i>
+</p>
+
+<p>
+<b>Publications</b>
+    <ul>
+        <li>
+            KyoungHee Son, <b>Seo Young Oh</b>, Yongkwan Kim, Hayan Choi, Seok-Hyung Bae, and Ganguk Hwang. (2015).
+            &quot;Color sommelier: Interactive color recommendation system based on community-generated color palettes.&quot;
+            <i>Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology</i> 
+            <a href="/publication/2015-11-06-UIST-Son">Link</a>
+        </li>
+    </ul>
+Presented at UIST 2016 Student Innovation Contest.<br />
+<img src='/images/projects/UIST2016_SIC.jpg' width='600'>
+</p>
