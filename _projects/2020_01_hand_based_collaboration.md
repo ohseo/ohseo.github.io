@@ -7,7 +7,7 @@ collection: projects
 <img src='/images/projects/remotevirtualhands_main.png' width='600'>
 
 <p>
-.
+Exploration of different virtual hand representations during asymmetric hand-based 3D remote collaboration to enhance the user experience including social presence.
 </p>
 
 <p>

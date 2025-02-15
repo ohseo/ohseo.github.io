@@ -1,13 +1,13 @@
 ---
-title: "OmniSense (2023)"
-excerpt: "<img src='/images/projects/omnisense_teaser.png' width='500'>"
+title: "Avatar Transparency in MR Remote Collaboration (2023)"
+excerpt: "<img src='/images/projects/avatartransparency_teaser.png' width='500'>"
 collection: projects
 ---
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/nu7vxkiYT2k" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src='/images/projects/avatartransparency_main.png' width='600'>
 
 <p>
-Exploration of the broad input design space and implementation of potential applications for mobile devices with a built-in omni-directional camera.
+Controlling visual parameters for avatar representation to enhance user experience in task-centric MR remote collaboration.
 </p>
 
 <p>

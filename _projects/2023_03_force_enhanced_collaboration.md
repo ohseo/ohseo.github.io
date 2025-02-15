@@ -8,7 +8,7 @@ collection: projects
 <img src='/images/projects/teleforce_main_2.png' width='600'>
 
 <p>
-.
+A prototype system for sharing a user's hand force in asymmetric 3D remote collaboration on physical tasks, where hand force is estimated using wearable surface electromyography sensors.
 </p>
 
 <p>

@@ -7,7 +7,7 @@ collection: projects
 <img src='/images/projects/whirling_main.jpg' width='600'>
 
 <p>
-.
+A selection method for XR displays using bare-hand motion matching gestures as an input technique, using the wrist joint as the primary input modality.
 </p>
 
 <p>

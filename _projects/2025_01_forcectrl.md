@@ -8,7 +8,7 @@ collection: projects
 <img src='/images/projects/forcectrl_main_3.png' width='600'>
 
 <p>
-.
+A novel hand-raycasting technique designed to promote control-display gain-based precise pointing in 3D by utilizing surface electromyography as a precision control cue.
 </p>
 
 <p>
