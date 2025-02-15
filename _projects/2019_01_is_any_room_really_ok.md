@@ -5,7 +5,7 @@ collection: projects
 ---
 
 <!-- <img src='/images/projects/isanyroomreallyok_main_1.png' width='600'><br /> -->
-<img src='/images/projects/isanyroomreallyok_main_2.png' width='600'>
+<img src='/images/projects/isanyroomreallyok_main.png' width='600'>
 
 <p>
 In-depth exploration of how changing the size and density of indoor spaces can lead to different levels of presence, narrative engagement, and usability while experiencing narrative-driven, space-adaptive content for AR HMDs.
