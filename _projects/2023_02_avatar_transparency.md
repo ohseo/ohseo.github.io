@@ -14,8 +14,8 @@ Controlling visual parameters for avatar representation to enhance user experien
 <b>Publications</b>
     <ul>
         <li>
-            Hui-Shyong Yeo, Erwin Wu, Daehwa Kim, Juyoung Lee, Hyung-il Kim, <b>Seo Young Oh</b>, Luna Takagi, Woontack Woo, Hideki Koike, and Aaron John Quigley. (2023). &quot;OmniSense: Exploring Novel Input Sensing and Interaction Techniques on Mobile Device with an Omni-Directional Camera.&quot; <i>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</i>
-            <a href="/publication/2023-04-19-CHI-Yeo">Link</a>
+            Boram Yoon, Jae-eun Shin, Hyung-il Kim, <b>Seo Young Oh</b>, Dooyoung Kim, and Woontack Woo. (2023). &quot;Effects of Avatar Transparency on Social Presence in Task-centric Mixed Reality Remote Collaboration.&quot; <i>IEEE Transactions on Visualization and Computer Graphics</i>
+            <a href="/publication/2023-10-02-TVCG-Yoon">Link</a>
         </li>
     </ul>
 </p>
