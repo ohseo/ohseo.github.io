@@ -39,7 +39,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-hover           : #fff683; // hover of "previous" and "next" 
     --global-link-color-visited         : mix(#fff, #{$light-gray}, 25%); 
     --global-masthead-link-color        : #{$dark-gray}; // head links
-    --global-masthead-link-color-hover  : #fff683; // head links hover
+    --global-masthead-link-color-hover  : #{$darker-gray}; // head links hover
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray}; // footer, "previous" and "next"
     --global-thead-color                : #{$lighter-gray};

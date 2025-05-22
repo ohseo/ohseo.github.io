@@ -221,7 +221,7 @@ textarea[readonly] {
 
 input:focus,
 textarea:focus {
-  border-color: #00f; //var(--global-border-color);
+  border-color: var(--global-border-color);
   outline: 0;
   outline: thin dotted \9;
 }
