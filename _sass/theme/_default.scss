@@ -30,7 +30,7 @@ $sidebar-screen-min-width   : 1024px;
 :root {
     --global-base-color                 : #{$gray};
     --global-bg-color                   : #fff; // page background
-    --global-border-color               : #fff683; // border of photo, header line, hover line
+    --global-border-color               : #{$lighter-gray}; // border of photo, header line, hover line
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff, #{$dark-gray}, 25%);
@@ -38,7 +38,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-hover           : #fff683; // hover of "previous" and "next" 
     --global-link-color-visited         : mix(#fff, #{$light-gray}, 25%); 
     --global-masthead-link-color        : #{$dark-gray}; // head links
-    --global-masthead-link-color-hover  : #fff683;    
+    --global-masthead-link-color-hover  : #fff683; // head links hover
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray}; // footer, "previous" and "next"
     --global-thead-color                : #{$lighter-gray};
