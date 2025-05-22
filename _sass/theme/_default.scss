@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #fff683;
+$gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -38,7 +38,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-hover           : mix(#000, #5ebdc0, 25%);
     --global-link-color-visited         : mix(#fff, #5ebdc0, 25%);  
     --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    --global-masthead-link-color-hover  : #fff683;    
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
