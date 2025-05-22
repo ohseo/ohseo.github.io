@@ -269,7 +269,7 @@
 
       &:hover {
         color: var(--global-masthead-link-color-hover);
-        background: #f00; //var(--global-border-color);
+        background: var(--global-border-color);
       }
     }
 
@@ -281,7 +281,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: var(--global-border-color) transparent;
+      border-color: #f00; //var(--global-border-color) transparent;
       display: block;
       z-index: 0;
     }
