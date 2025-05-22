@@ -11,7 +11,7 @@ I am a Ph.D. candidate in <a href='http://ct.kaist.ac.kr'>Culture Technology</a>
 
 <details>
 <summary>Read more</summary>
-Outside of research, I like exploring systems with personality:
+Outside of research, I like exploring systems with personality:<br>
 
 I spend my spare time playing video and board games🎮🎲, noodling on guitar🎸, learning new sports❄️, and herding three cats😺.
 </details>
