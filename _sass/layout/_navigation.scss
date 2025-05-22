@@ -281,7 +281,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #f00; //var(--global-border-color) transparent;
+      border-color: var(--global-border-color) transparent;
       display: block;
       z-index: 0;
     }
