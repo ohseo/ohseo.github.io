@@ -28,18 +28,18 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #f00;
-    --global-bg-color                   : #ff0;
-    --global-border-color               : #0f0;
-    --global-code-background-color      : #0ff;
-    --global-code-text-color            : #00f;
-    --global-fig-caption-color          : #f0f;
+    --global-base-color                 : #{$gray};
+    --global-bg-color                   : #fff; // page background
+    --global-border-color               : #fff683; // border of photo, header line, hover line
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : mix(#fff, #{$dark-gray}, 25%);
     --global-link-color                 : #88c7e6;
-    --global-link-color-hover           : #a00;
-    --global-link-color-visited         : #0a0;  
-    --global-masthead-link-color        : #00a;
+    --global-link-color-hover           : #fff683; // hover of "previous" and "next" 
+    --global-link-color-visited         : mix(#fff, #{$light-gray}, 25%); 
+    --global-masthead-link-color        : #{$dark-gray}; // head links
     --global-masthead-link-color-hover  : #fff683;    
-    --global-text-color                 : #aa0;
-    --global-text-color-light           : #a0a;
-    --global-thead-color                : #0aa;
+    --global-text-color                 : #{$dark-gray};
+    --global-text-color-light           : #{$light-gray}; // footer, "previous" and "next"
+    --global-thead-color                : #{$lighter-gray};
 }
