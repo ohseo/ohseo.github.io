@@ -75,6 +75,6 @@ Academic Services and Experiences
   * High School Research Participation Program (2015)
 * **Volunteering**
   * **Reviewer**: CHI, CHI Late-Breaking Work, Korea Software Congress
-  * **Academic Event Assistant**: ISMAR 2025 (Best Student Volunteer), KAIST GSCT Post-Metaverse Forum
+  * **Academic Event Assistant**: ISMAR (2025 Best Student Volunteer), KAIST GSCT Post-Metaverse Forum
 
 <div style="text-align: right"><i>Last Updated: Oct 2025</i></div>
