@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](/files/CV_SYOh_2025Feb.pdf)
+[Download PDF](/files/CV_SYOh_2025Oct.pdf)
 
 {% include base_path %}
 
@@ -74,7 +74,7 @@ Academic Services and Experiences
 * **Graduate Mentor** at Korea Science Academy of KAIST
   * High School Research Participation Program (2015)
 * **Volunteering**
-  * **Reviewer**: CHI, CHI Late-Breaking Work, KSC (Korea Software Congress)
+  * **Reviewer**: CHI, CHI Late-Breaking Work, Korea Software Congress
   * **Academic Event Assistant**: ISMAR 2025 (Best Student Volunteer), KAIST GSCT Post-Metaverse Forum
 
-<div style="text-align: right"><i>Last Updated: Feb 2025</i></div>
+<div style="text-align: right"><i>Last Updated: Oct 2025</i></div>
