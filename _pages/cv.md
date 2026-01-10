@@ -30,7 +30,7 @@ Work experience
 Skills
 ------
 * **Programming**: C#, Python, C++
-* **Development Tools**: Unity, OpenXR, Meta XR SDL, Mixed Reality Toolkit
+* **Development Tools**: Unity, OpenXR, Meta XR SDK, Mixed Reality Toolkit
 * **Design & Graphhics**: Illustrator, Photoshop, Premiere Pro
 * **Languages**: Korean (Native), English (Proficient)
 
