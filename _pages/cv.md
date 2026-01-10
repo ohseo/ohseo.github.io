@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](/files/CV_SYOh_2025Oct.pdf)
+[Download PDF](/files/CV_SYOh_2026Jan.pdf)
 
 {% include base_path %}
 
@@ -29,8 +29,8 @@ Work experience
   
 Skills
 ------
-* **Programming**: C#, Python, C++, C, Java
-* **Development Tools**: Unity, ARCore, ARKit, OpenXR, Mixed Reality Toolkit
+* **Programming**: C#, Python, C++
+* **Development Tools**: Unity, OpenXR, Meta XR SDL, Mixed Reality Toolkit
 * **Design & Graphhics**: Illustrator, Photoshop, Premiere Pro
 * **Languages**: Korean (Native), English (Proficient)
 
@@ -77,4 +77,4 @@ Academic Services and Experiences
   * **Reviewer**: CHI, CHI Late-Breaking Work, Korea Software Congress
   * **Academic Event Assistant**: ISMAR (2025 Best Student Volunteer), KAIST GSCT Post-Metaverse Forum
 
-<div style="text-align: right"><i>Last Updated: Oct 2025</i></div>
+<div style="text-align: right"><i>Last Updated: Jan 2026</i></div>
