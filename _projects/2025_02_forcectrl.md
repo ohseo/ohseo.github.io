@@ -85,19 +85,20 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 
 We conducted a user study (n=16) comparing ForceCtrl techniques against standard raycasting in target selection and placement tasks.
 
-* [cite_start]**Improved Precision:** All ForceCtrl techniques significantly reduced selection errors and jitter compared to the baseline[cite: 1042].
-* [cite_start]**Reduced Jitter:** **CDRayRev** showed the most stable performance for distant targets[cite: 1149].
-* [cite_start]**User Preference:** Participants preferred **CDRayRev** for high-precision tasks due to its intuitive converging behavior, despite it deviating from physical hand pointing[cite: 1321].
+**Improved Precision:** All ForceCtrl techniques significantly reduced selection errors and jitter compared to the baseline[cite: 1042].
+**Reduced Jitter:** **CDRayRev** showed the most stable performance for distant targets[cite: 1149].
+**User Preference:** Participants preferred **CDRayRev** for high-precision tasks due to its intuitive converging behavior, despite it deviating from physical hand pointing[cite: 1321].
 
 ---
 
 ### Citation
 
 ```bibtex
-@article{oh2024forcectrl,
+@article{oh2025forcectrl,
   title={ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application},
   author={Oh, Seo Young and Seo, Junghoon and Lee, Juyoung and Yoon, Boram and Yoon, Sang Ho and Woo, Woontack},
   journal={IEEE Transactions on Visualization and Computer Graphics},
-  year={2024},
+  year={2025},
   publisher={IEEE}
 }
+```
