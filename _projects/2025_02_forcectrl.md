@@ -60,7 +60,7 @@ We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances poi
 
 ## System Overview
 
-ForceCtrl leverages user-defined pinch force to adjust the Control-Display (CD) ratio of the ray, allowing for high-precision interaction without requiring handheld devices.
+**ForceCtrl** leverages user-defined pinch force to adjust the Control-Display (CD) ratio of the ray, allowing for high-precision interaction without requiring handheld devices.
 
 ### 1. Force Classification via sEMG
 The system uses a forearm-worn sEMG armband to detect pinch force levels. Unlike traditional methods that rely on fixed thresholds or MVC (Maximum Voluntary Contraction), our model classifies **user-defined subjective force levels** based on the Borg Scale (None, Moderate, Very Strong). A CNN-based model ensures robust classification across different users and sessions. This personalized approach accommodates individual physical differences and ensures consistent performance across various users. 
@@ -114,9 +114,9 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 
 ## Key Results
 
-We conducted a user study (n=16) comparing ForceCtrl techniques against standard raycasting in target selection and placement tasks.
+We conducted a user study (n=16) comparing **ForceCtrl** techniques against standard raycasting in target selection and placement tasks.
 
-* **Improved Precision:** All ForceCtrl techniques significantly reduced selection errors and jitter compared to the baseline.
+* **Improved Precision:** All **ForceCtrl** techniques significantly reduced selection errors and jitter compared to the baseline.
 * **Reduced Jitter:** **CDRayRev** showed the most stable performance for distant targets.
 * **User Preference:** Participants preferred **CDRayRev** for high-precision tasks due to its intuitive converging behavior, despite it deviating from physical hand pointing.
 
