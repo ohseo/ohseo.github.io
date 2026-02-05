@@ -1,11 +1,8 @@
 ---
-layout: page
 title: ForceCtrl (2025)
 description: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application
 img: assets/img/forcectrl_teaser.jpg
-importance: 1
-category: work
-related_publications: true
+collection: projects
 ---
 
 <div class="row">
