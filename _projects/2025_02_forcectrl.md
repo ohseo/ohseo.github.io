@@ -40,7 +40,7 @@ collection: projects
 
 ### Abstract
 
-We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances pointing precision based on Control-Display (CD) gain controlled with user-defined pinch force. We introduce a target-agnostic approach for refining raycasting precision, overcoming limitations in human motor accuracy. User-defined pinch force, detected with surface Electromyography (sEMG), enables users to easily activate or deactivate CD gain during interaction. We propose three CD gain strategies and compare them through target selection and placement tasks. Our system reduces selection errors, placement jitters, and user workload, especially for distant targets in high-difficulty tasks. These results highlight the effectiveness of applying CD gain to hand raycasting and demonstrate the potential of user-defined pinch force as a robust input modality for precise hand interaction in AR/VR.
+We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances pointing precision by adjusting control-display (CD) gain based on user-defined pinch force. We introduce a target-agnostic approach for refining raycasting precision, overcoming limitations in human motor abilities. User-defined pinch force, detected with surface electromyography (sEMG), enables users to easily activate or deactivate CD gain during interaction. We propose three CD gain strategies and compare them through target selection and placement tasks. Our system reduces selection errors, placement jitters, and user workload, especially for distant targets in high-difficulty tasks. These results highlight the effectiveness of applying CD gain to hand raycasting and demonstrate the potential of user-defined pinch force as a robust input modality for precise hand interaction in AR/VR.
 
 ---
 
@@ -108,15 +108,37 @@ We conducted a user study (n=16) comparing ForceCtrl techniques against standard
 
 ## Citation
 
-```bibtex
-@article{oh2025forcectrl,
+---
+
+### Citation
+
+<div style="position: relative; background: #f6f8fa; padding: 15px; border-radius: 6px; border: 1px solid #e1e4e8;">
+    <button onclick="copyCitation()" class="btn btn-sm z-depth-0" style="position: absolute; top: 10px; right: 10px; border: 1px solid #ccc; background: white;">
+        Copy
+    </button>
+    <pre id="bibtex-source" style="margin: 0; white-space: pre-wrap; word-wrap: break-word; font-size: 0.85rem; font-family: monospace;">@article{oh2024forcectrl,
   title={ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application},
   author={Oh, Seo Young and Seo, Junghoon and Lee, Juyoung and Yoon, Boram and Yoon, Sang Ho and Woo, Woontack},
   journal={IEEE Transactions on Visualization and Computer Graphics},
-  year={2025},
+  year={2024},
   publisher={IEEE}
+}</pre>
+</div>
+
+<script>
+function copyCitation() {
+    // 텍스트 가져오기
+    var copyText = document.getElementById("bibtex-source").innerText;
+    
+    // 클립보드에 쓰기
+    navigator.clipboard.writeText(copyText).then(function() {
+        // 성공 시 알림 (선택 사항: 버튼 텍스트 변경 등)
+        alert("Citation copied to clipboard!");
+    }, function(err) {
+        console.error('Could not copy text: ', err);
+    });
 }
-```
+</script>
 
 <p>
 <b>Publications</b>
