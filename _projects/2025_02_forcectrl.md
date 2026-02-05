@@ -19,7 +19,7 @@ collection: projects
 <div class="row justify-content-center">
     <div class="col-sm-12 text-center">
         <a href= 'http://ohseo.github.io/files/2025-12-23-TVCG-Oh.pdf' class="btn btn-sm z-depth-0" role="button">Paper (Early Access)</a>
-        <a href='http://ohseo.github.io/files/2025-12-23-TVCG-Oh.mp4' class="btn btn-sm z-depth-0" role="button">Video</a>
+        <!-- <a href='http://ohseo.github.io/files/2025-12-23-TVCG-Oh.mp4' class="btn btn-sm z-depth-0" role="button">Video</a> -->
         </div>
 </div>
 
@@ -38,9 +38,23 @@ collection: projects
 
 ---
 
-### Abstract
+## Abstract
 
 We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances pointing precision by adjusting control-display (CD) gain based on user-defined pinch force. We introduce a target-agnostic approach for refining raycasting precision, overcoming limitations in human motor abilities. User-defined pinch force, detected with surface electromyography (sEMG), enables users to easily activate or deactivate CD gain during interaction. We propose three CD gain strategies and compare them through target selection and placement tasks. Our system reduces selection errors, placement jitters, and user workload, especially for distant targets in high-difficulty tasks. These results highlight the effectiveness of applying CD gain to hand raycasting and demonstrate the potential of user-defined pinch force as a robust input modality for precise hand interaction in AR/VR.
+
+---
+
+## Demo Video
+
+<div class="row justify-content-center">
+    <div class="col-sm-10">
+        <video width="100%" height="auto" controls muted class="rounded z-depth-1">
+            <source src="/files/2025-12-23-TVCG-Oh.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+<br>
 
 ---
 
@@ -100,9 +114,9 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 
 We conducted a user study (n=16) comparing ForceCtrl techniques against standard raycasting in target selection and placement tasks.
 
-**Improved Precision:** All ForceCtrl techniques significantly reduced selection errors and jitter compared to the baseline.
-**Reduced Jitter:** **CDRayRev** showed the most stable performance for distant targets.
-**User Preference:** Participants preferred **CDRayRev** for high-precision tasks due to its intuitive converging behavior, despite it deviating from physical hand pointing.
+* **Improved Precision:** All ForceCtrl techniques significantly reduced selection errors and jitter compared to the baseline.
+* **Reduced Jitter:** **CDRayRev** showed the most stable performance for distant targets.
+* **User Preference:** Participants preferred **CDRayRev** for high-precision tasks due to its intuitive converging behavior, despite it deviating from physical hand pointing.
 
 ---
 
