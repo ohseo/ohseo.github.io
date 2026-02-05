@@ -85,10 +85,10 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 * **CDRayDir:** Scales the change in ray direction, maintaining the hand position.
 * **CDRayRev (Best Performing):** Reverses and scales the directional change, causing the ray to converge. This method was found to be most effective for high-precision tasks at a distance.
 
-<div class="row justify-content-center" style="text-align: center">
+<div class="row justify-content-center">
     <figure class="figure">
         <img src="/images/projects/forcectrl_ray.png" class="img-fluid rounded z-depth-1" 
-        style="width:50%"
+        style="width:60%"
         alt="Ray Shifting Strategies">
         <figcaption class="figure-caption text-center">
             Visual comparison of CDHandPos, CDRayDir, and CDRayRev strategies.
