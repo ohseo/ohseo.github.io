@@ -7,27 +7,33 @@ collection: projects
 ---
 
 <div class="row">
-    <h2>ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application</h2>
-    <p>
-        <b>Seo Young Oh</b>, Junghoon Seo, Juyoung Lee, Boram Yoon, Sang Ho Yoon, and Woontack Woo<br>
-        <em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024</em>
-    </p>
+    <div class="col-sm-12 text-center">
+        <h2>ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application</h2>
+        <p>
+            <b>Seo Young Oh</b>, Junghoon Seo, Juyoung Lee, Boram Yoon, Sang Ho Yoon, and Woontack Woo<br>
+            <em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024</em>
+        </p>
+    </div>
 </div>
 
 <div class="row justify-content-center">
-    <a href= 'http://ohseo.github.io/files/2025-12-23-TVCG-Oh.pdf' class="btn btn-sm z-depth-0" role="button">Paper (Early Access)</a>
-    <!-- <a href='http://ohseo.github.io/files/2025-12-23-TVCG-Oh.mp4' class="btn btn-sm z-depth-0" role="button">Video</a> -->
+    <div class="col-sm-12 text-center">
+        <a href= 'http://ohseo.github.io/files/2025-12-23-TVCG-Oh.pdf' class="btn btn-sm z-depth-0" role="button">Paper (Early Access)</a>
+        <!-- <a href='http://ohseo.github.io/files/2025-12-23-TVCG-Oh.mp4' class="btn btn-sm z-depth-0" role="button">Video</a> -->
+        </div>
 </div>
 
 <br>
 
 <div class="row justify-content-center">
-    <figure class="figure">
-        <img src="/images/projects/forcectrl_main.png" class="img-fluid rounded z-depth-1" alt="ForceCtrl Teaser">
-        <figcaption class="figure-caption text-center">
-            Overview of ForceCtrl. (a) Users control pointing precision via pinch force detected by an sEMG armband. (b) Comparison of the proposed three CD gain strategies activated by force.
-        </figcaption>
-    </figure>
+    <div class="col-sm-10">
+        <figure class="figure">
+            <img src="/images/projects/forcectrl_main.png" class="img-fluid rounded z-depth-1" alt="ForceCtrl Teaser">
+            <figcaption class="figure-caption text-center">
+                Overview of ForceCtrl. (a) Users control pointing precision via pinch force detected by an sEMG armband. (b) Comparison of the proposed three CD gain strategies activated by force.
+            </figcaption>
+        </figure>
+    </div>
 </div>
 
 ---
@@ -41,10 +47,12 @@ We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances poi
 ## Demo Video
 
 <div class="row justify-content-center">
-    <video width="100%" height="auto" controls muted class="rounded z-depth-1">
-        <source src="/files/2025-12-23-TVCG-Oh.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <div class="col-sm-10">
+        <video width="100%" height="auto" controls muted class="rounded z-depth-1">
+            <source src="/files/2025-12-23-TVCG-Oh.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 </div>
 <br>
 
@@ -58,24 +66,28 @@ We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances poi
 The system uses a forearm-worn sEMG armband to detect pinch force levels. Unlike traditional methods that rely on fixed thresholds or MVC (Maximum Voluntary Contraction), our model classifies **user-defined subjective force levels** based on the Borg Scale (None, Moderate, Very Strong). A CNN-based model ensures robust classification across different users and sessions. This personalized approach accommodates individual physical differences and ensures consistent performance across various users. 
 
 <div class="row justify-content-center">
-    <figure class="figure">
-        <img src="/images/projects/forcectrl_system_diagram.png" class="img-fluid rounded z-depth-1" alt="System Architecture">
-        <figcaption class="figure-caption text-center">
-            System architecture: (a) CNN-based Force Classifier, (b) Force Accumulator for stability, (c) Interaction State Machine.
-        </figcaption>
-    </figure>
+    <div class="col-sm-10">
+        <figure class="figure">
+            <img src="/images/projects/forcectrl_system_diagram.png" class="img-fluid rounded z-depth-1" alt="System Architecture">
+            <figcaption class="figure-caption text-center">
+                System architecture: (a) CNN-based Force Classifier, (b) Force Accumulator for stability, (c) Interaction State Machine.
+            </figcaption>
+        </figure>
+    </div>
 </div>
 
 ### 2. Interaction States and Transitions
 A dedicated **interaction state machine** manages the workflow: it transitions from standard raycasting to a high-precision mode when force is detected. This seamless integration of force sensing and raycasting logic allows for stabilized pointing without the need for additional buttons or complex gestures.
 
 <div class="row justify-content-center">
-    <figure class="figure">
-        <img src="/images/projects/forcectrl_interaction_state.png" class="img-fluid rounded z-depth-1" alt="Interaction State Machine">
-        <figcaption class="figure-caption text-center">
-            Interaction state transitions: (a) Coarse Pointing, (b) Coarse Dragging, (c) Precise Pointing, and (d) Precise Dragging.
-        </figcaption>
-    </figure>
+    <div class="col-sm-10">
+        <figure class="figure">
+            <img src="/images/projects/forcectrl_interaction_state.png" class="img-fluid rounded z-depth-1" alt="Interaction State Machine">
+            <figcaption class="figure-caption text-center">
+                Interaction state transitions: (a) Coarse Pointing, (b) Coarse Dragging, (c) Precise Pointing, and (d) Precise Dragging.
+            </figcaption>
+        </figure>
+    </div>
 </div>
 
 ### 3. Ray Shifting Strategies for CD Gain Application
@@ -86,14 +98,16 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 * **CDRayRev (Best Performing):** Reverses and scales the directional change, causing the ray to converge. This method was found to be most effective for high-precision tasks at a distance.
 
 <div class="row justify-content-center">
-    <figure class="figure">
-        <img src="/images/projects/forcectrl_ray.png" class="img-fluid rounded z-depth-1" 
-        style="width:60%"
-        alt="Ray Shifting Strategies">
-        <figcaption class="figure-caption text-center">
-            Visual comparison of CDHandPos, CDRayDir, and CDRayRev strategies.
-        </figcaption>
-    </figure>
+    <div class="col-sm-5">
+        <figure class="figure">
+            <img src="/images/projects/forcectrl_ray.png" class="img-fluid rounded z-depth-1" 
+            style="width:50%"
+            alt="Ray Shifting Strategies">
+            <figcaption class="figure-caption text-center">
+                Visual comparison of CDHandPos, CDRayDir, and CDRayRev strategies.
+            </figcaption>
+        </figure>
+    </div>
 </div>
 
 ---
