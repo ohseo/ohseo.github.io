@@ -108,37 +108,15 @@ We conducted a user study (n=16) comparing ForceCtrl techniques against standard
 
 ## Citation
 
----
-
-### Citation
-
-<div style="position: relative; background: #f6f8fa; padding: 15px; border-radius: 6px; border: 1px solid #e1e4e8;">
-    <button onclick="copyCitation()" class="btn btn-sm z-depth-0" style="position: absolute; top: 10px; right: 10px; border: 1px solid #ccc; background: white;">
-        Copy
-    </button>
-    <pre id="bibtex-source" style="margin: 0; white-space: pre-wrap; word-wrap: break-word; font-size: 0.85rem; font-family: monospace;">@article{oh2024forcectrl,
+```bibtex
+@article{oh2025forcectrl,
   title={ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application},
   author={Oh, Seo Young and Seo, Junghoon and Lee, Juyoung and Yoon, Boram and Yoon, Sang Ho and Woo, Woontack},
   journal={IEEE Transactions on Visualization and Computer Graphics},
-  year={2024},
+  year={2025},
   publisher={IEEE}
-}</pre>
-</div>
-
-<script>
-function copyCitation() {
-    // 텍스트 가져오기
-    var copyText = document.getElementById("bibtex-source").innerText;
-    
-    // 클립보드에 쓰기
-    navigator.clipboard.writeText(copyText).then(function() {
-        // 성공 시 알림 (선택 사항: 버튼 텍스트 변경 등)
-        alert("Citation copied to clipboard!");
-    }, function(err) {
-        console.error('Could not copy text: ', err);
-    });
 }
-</script>
+```
 
 <!-- <p>
 <b>Publications</b>
