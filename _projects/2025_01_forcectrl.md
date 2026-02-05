@@ -66,7 +66,7 @@ We present **ForceCtrl**, a novel 3D hand raycasting technique that enhances poi
 The system uses a forearm-worn sEMG armband to detect pinch force levels. Unlike traditional methods that rely on fixed thresholds or MVC (Maximum Voluntary Contraction), our model classifies **user-defined subjective force levels** based on the Borg Scale (None, Moderate, Very Strong). A CNN-based model ensures robust classification across different users and sessions. This personalized approach accommodates individual physical differences and ensures consistent performance across various users. 
 
 <div class="row justify-content-center">
-    <div class="col-sm-10">
+    <div class="col-sm-12">
         <figure class="figure">
             <img src="/images/projects/forcectrl_system_diagram.png" class="img-fluid rounded z-depth-1" alt="System Architecture">
             <figcaption class="figure-caption text-center">
@@ -80,7 +80,7 @@ The system uses a forearm-worn sEMG armband to detect pinch force levels. Unlike
 A dedicated **interaction state machine** manages the workflow: it transitions from standard raycasting to a high-precision mode when force is detected. This seamless integration of force sensing and raycasting logic allows for stabilized pointing without the need for additional buttons or complex gestures.
 
 <div class="row justify-content-center">
-    <div class="col-sm-10">
+    <div class="col-sm-12">
         <figure class="figure">
             <img src="/images/projects/forcectrl_interaction_state.png" class="img-fluid rounded z-depth-1" alt="Interaction State Machine">
             <figcaption class="figure-caption text-center">
@@ -98,7 +98,7 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 * **CDRayRev (Best Performing):** Reverses and scales the directional change, causing the ray to converge. This method was found to be most effective for high-precision tasks at a distance.
 
 <div class="row justify-content-center">
-    <div class="col-sm-6">
+    <div class="col-sm-7">
         <figure class="figure">
             <img src="/images/projects/forcectrl_ray.png" class="img-fluid rounded z-depth-1" alt="Ray Shifting Strategies">
             <figcaption class="figure-caption text-center">
