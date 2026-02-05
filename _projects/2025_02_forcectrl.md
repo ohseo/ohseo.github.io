@@ -84,7 +84,7 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
 * **CDRayRev (Best Performing):** Reverses and scales the directional change, causing the ray to converge. This method was found to be most effective for high-precision tasks at a distance.
 
 <div class="row justify-content-center">
-    <div class="col-sm-8">
+    <div class="col-sm-5">
         <figure class="figure">
             <img src="/images/projects/forcectrl_ray.png" class="img-fluid rounded z-depth-1" alt="Ray Shifting Strategies">
             <figcaption class="figure-caption text-center">
@@ -140,7 +140,7 @@ function copyCitation() {
 }
 </script>
 
-<p>
+<!-- <p>
 <b>Publications</b>
     <ul>
         <li>
@@ -148,4 +148,4 @@ function copyCitation() {
             <a href="/publication/2025-12-23-TVCG-Oh">Link</a>
         </li>
     </ul>
-</p>
+</p> -->
