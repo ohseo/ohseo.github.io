@@ -101,7 +101,7 @@ To apply CD gain to 3D raycasting, we proposed and evaluated three ray shifting 
     <div class="col-sm-5">
         <figure class="figure">
             <img src="/images/projects/forcectrl_ray.png" class="img-fluid rounded z-depth-1" 
-            style="width:100%"
+            style="width:50%"
             alt="Ray Shifting Strategies">
             <figcaption class="figure-caption text-center">
                 Visual comparison of CDHandPos, CDRayDir, and CDRayRev strategies.
