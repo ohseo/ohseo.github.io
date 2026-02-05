@@ -26,7 +26,7 @@ collection: projects
 <br>
 
 <div class="row justify-content-center">
-    <div class="col-sm-10">
+    <div class="col-sm-12">
         <figure class="figure">
             <img src="/images/projects/forcectrl_main.png" class="img-fluid rounded z-depth-1" alt="ForceCtrl Teaser">
             <figcaption class="figure-caption text-center">
