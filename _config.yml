@@ -22,7 +22,7 @@ repository               : "ohseo/ohseo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_ohseo.jpeg"
+  avatar           : "profile_ohseo.jpg"
   name             : "Seo Young Oh"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D.Candidate, Korea Advanced Institute of Science and Technology(KAIST)"
