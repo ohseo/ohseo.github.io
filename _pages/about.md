@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Seo Young, a Ph.D. candidate at <a href='http://kaist.ac.kr'>KAIST</a> specializing in 3D hand interaction for AR/VR. 
+I'm Seo Young, a Ph.D. candidate at <a href='http://kaist.ac.kr/en/'>KAIST</a> specializing in 3D hand interaction for AR/VR. 
 
 <b>Research Interests:</b><br/>
 My work at <a href='http://uvrlab.org'>UVR Lab</a> focuses on high-precision 3D hand interaction. My research integrates geometric approach to the interaction and user-centric design to solve the challenges of precision and usability in complex digital environments.
