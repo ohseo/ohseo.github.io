@@ -22,7 +22,7 @@ repository               : "ohseo/ohseo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_ohseo.jpeg"
+  avatar           : "profile_ohseo.jpg"
   name             : "Seo Young Oh"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D.Candidate, Korea Advanced Institute of Science and Technology(KAIST)"
@@ -30,7 +30,7 @@ author:
   employer         : "UVR Lab."
   employeruri      : "http://uvrlab.org"
   uri              : # URL
-  email            : "seoyoung.oh@kaist.ac.kr" 
+  email            : "oh.seo@kaist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ohseo"
+  # github           : "ohseo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
