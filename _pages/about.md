@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in <a href='http://ct.kaist.ac.kr'>Culture Technology</a> at <a href='http://kaist.ac.kr'>Korea Advanced Institute of Science and Technology (KAIST)</a>, supervised by Prof. Woontack Woo and Prof. Sang Ho Yoon. My research focuses on <b>3D hand interactions for augmented and virtual reality (AR/VR)</b>, with an emphasis on the <b>precise selection and manipulation of virtual objects</b>. I am passionate about enabling users to interact accurately with virtual objects, even in complex AR/VR environments where diverse content coexists. My work integrates <b>sensing technologies</b>, <b>interaction design</b>, and <b>user studies</b> to develop interaction strategies for enhanced precision and usability. Looking ahead, I am particularly interested in <b>integrating AR/VR technologies with interactive entertainment</b>, such as games and theme park attractions, to create immersive and magical experiences. Feel free to reach out to learn more about my research and projects.
+I'm Seo Young, a Ph.D. candidate at <a href='http://kaist.ac.kr'>KAIST</a> specializing in 3D hand interaction for AR/VR. 
 
-<details>
-<summary>Read more</summary>
-Outside of research, I like exploring systems with personality:<br><br>
+<b>Research Interests:</b>
+My work at <a href='http://uvrlab.org'>UVR Lab</a> focuses on high-precision 3D hand interaction. My research integrates geometric approach to the interaction and user-centric design to solve the challenges of precision and usability in complex digital environments.
 
-I spend my spare time playing video and board games🎮🎲, noodling on guitar🎸, learning new sports❄️, and herding three cats😺.
-</details>
+<b>The Goal:</b>
+While my foundation is in HCI research, my focus is on the application: building the next-generation of immersive interaction. My vision is to translate rigorous HCI research into magical moments for interactive entertainment. I am dedicated to evolving how we play and explore, from next-gen gaming to large-scale theme park attractions.
+
+<b>Outside the Lab:</b>
+You'll find me exploring systems with personality; playing video and board games🎮🎲, noodling on guitar🎸, learning new sports❄️, and herding three cats😺.
