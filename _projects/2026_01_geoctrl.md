@@ -2,7 +2,7 @@
 title: GeoCtrl (2026)
 description: Finger-Driven In-Hand Virtual Object Rotation for XR
 # img: assets/img/forcectrl_teaser.jpg
-# excerpt: "<img src='/images/projects/forcectrl_teaser.png' width='500'>"
+excerpt: "<img src='/images/projects/geoctrl_teaser.png' width='500'>"
 collection: projects
 ---
 
