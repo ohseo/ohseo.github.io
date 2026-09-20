@@ -15,6 +15,14 @@ Research Interests
 ------
 3D Hand Interaction, Virtual Object Manipulation, XR Interfaces, and Human-Computer Interaction
 
+Skills
+------
+* **Programming**: C#, Python, C++
+* **XR Development**: Unity, OpenXR, Meta XR SDK, Mixed Reality Toolkit
+* **Devices**: Meta Quest 3/Pro/2, Microsoft HoloLens, Magic Leap, Android
+* **Methods**: 3D interaction design, XR prototyping, controlled user studies, statistical analysis
+* **Design & Graphhics**: Illustrator, Photoshop, Premiere Pro
+* **Languages**: Korean (Native), English (Proficient)
 
 Education
 ------
@@ -36,16 +44,6 @@ Work experience
 * **Naru EMS Inc. / SQAnd Inc.** as a Research Engineer, Sep 2016 - Feb 2019
   * Designed and demonstrated a HoloLens-based real-time AR visualization of mid-air sound sources rendered by the company's spatial audio technology. (SQAnd, 2018 - 2019)
   * Ported engineering simulation algorithms to C and implemented the simulator user interfaces. (Naru EMS, 2016 - 2019)
-
-  
-Skills
-------
-* **Programming**: C#, Python, C++
-* **XR Development**: Unity, OpenXR, Meta XR SDK, Mixed Reality Toolkit
-* **Devices**: Meta Quest 3/Pro/2, Microsoft HoloLens, Magic Leap, Android
-* **Methods**: 3D interaction design, XR prototyping, controlled user studies, statistical analysis
-* **Design & Graphhics**: Illustrator, Photoshop, Premiere Pro
-* **Languages**: Korean (Native), English (Proficient)
 
 Publications
 ------
