@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile_ohseo.jpg"
   name             : "Seo Young Oh"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D.Candidate, Korea Advanced Institute of Science and Technology(KAIST)"
+  pronouns         : "Ph.D."  
+  bio              : "Postdoc researcher, Korea Advanced Institute of Science and Technology(KAIST)"
   location         : "Daejeon, South Korea"
-  employer         : "UVR Lab."
-  employeruri      : "http://uvrlab.org"
+  employer         : "KAIST SpaceTop Research Center"
+  employeruri      : "https://spacetop.kaist.ac.kr/"
   uri              : # URL
   email            : "oh.seo@kaist.ac.kr" 
 
