@@ -18,7 +18,7 @@ collection: projects
 
 <div class="row justify-content-center">
     <div class="col-sm-12 text-center">
-        <a href= 'http://ohseo.github.io/files/2025-12-23-TVCG-Oh.pdf' class="btn btn-sm z-depth-0" role="button">Paper (Early Access)</a>
+        <a href= 'http://ohseo.github.io/files/2025-12-23-TVCG-Oh.pdf' class="btn btn-sm z-depth-0" role="button">Paper</a>
         <!-- <a href='http://ohseo.github.io/files/2025-12-23-TVCG-Oh.mp4' class="btn btn-sm z-depth-0" role="button">Video</a> -->
         </div>
 </div>
