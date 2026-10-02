@@ -75,9 +75,11 @@ The geometric mapping does not require a 1:1 ratio, so a **speed-responsive CD g
     </div>
 </div>
 
-The rotational increment is converted to angle-axis form and its angle scaled by <em>g</em>(<em>v</em>). The inflection point <em>v<sub>inf</sub></em> = 0.074 m/s was derived from prior finger-based Fitts' Law work, and four candidate curves were implemented and compared in a controlled study. The **Low** curve (0.3–1.3) performed best and ships as the system default.
+The rotational increment is converted to angle-axis form and its angle scaled by <em>g</em>(<em>v</em>).
 
-<div class="row justify-content-center">
+<!-- The inflection point <em>v<sub>inf</sub></em> = 0.074 m/s was derived from prior finger-based Fitts' Law work, and four candidate curves were implemented and compared in a controlled study. The **Low** curve (0.3–1.3) performed best and ships as the system default. -->
+
+<!-- <div class="row justify-content-center">
     <div class="col-sm-7">
         <figure class="figure">
             <img src="/images/projects/geoctrl_gain_curve.png" class="img-fluid rounded z-depth-1" alt="CD Gain Curves">
@@ -86,7 +88,7 @@ The rotational increment is converted to angle-axis form and its angle scaled by
             </figcaption>
         </figure>
     </div>
-</div>
+</div> -->
 
 ### 3. Grab, Clutching, and Stability Handling
 
@@ -116,9 +118,10 @@ A docking task testbed was built to evaluate the technique: two 4 cm semi-transp
 
 ## Key Results
 
-We ran two within-subject user studies: a gain-curve exploration (n=16) and a system evaluation (n=24) comparing **GeoCtrl** against the physics-based and commodity references.
+<!-- We ran two within-subject user studies: a gain-curve exploration (n=16) and a system evaluation (n=24) comparing **GeoCtrl** against the physics-based and commodity references. -->
+We ran a user study to evaluate the system (n=24) comparing **GeoCtrl** against the physics-based and commodity references.
 
-* **Gain curve:** The **Low** curve outperformed all alternatives on completion time and total rotation (*p* < .001). Steeper curves hurt usability, as users briefly exceed <em>v<sub>inf</sub></em> even during fine adjustment.
+<!-- * **Gain curve:** The **Low** curve outperformed all alternatives on completion time and total rotation (*p* < .001). Steeper curves hurt usability, as users briefly exceed <em>v<sub>inf</sub></em> even during fine adjustment. -->
 * **Faster than physics simulation:** **GeoCtrl** significantly reduced task completion time and time-on-target against the physics-based reference, confirming more effective rotational control without haptic feedback.
 * **Lowest physical demand:** Rated significantly below both references on NASA-TLX physical demand, with no difference from the commodity technique on any other subscale — the added finger-level DOF cost no extra workload.
 * **Finger-level, not arm-level:** **GeoCtrl** produced the greatest object rotation with far less wrist movement, confining manipulation to a significantly smaller workspace than both references.
